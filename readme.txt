@@ -1,0 +1,1 @@
+This portfolio will serve as an initial webpage to be utilized to showcase my web development adventures. I will submit this project as part of the Free Code Camp curriculum.
